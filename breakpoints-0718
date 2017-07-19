@@ -1,0 +1,10 @@
+break main
+break /nfs/yzhdong/fst/compose/test.cpp:38
+break /dbg/include/fst/dfs-visit.h:148
+break compose.h:973
+break compose.h:620
+break compose.h:281
+break matcher.h:129
+break compose.h:278
+break bi-table.h:155
+break compose.h:336
